@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="author" content="Gerhard pevny">
     <meta name="keywords" content="Yahtzee">
-    <link rel="stylesheet" type="text/css" href="stylesheet/Yahtzee.css">
+    <link rel="stylesheet" type="text/css" href="Yahtzee.css">
     <title>Yahtzee</title>
 </head>
 <body>
@@ -515,6 +515,6 @@
 <div id="Ueberschriftszeile">
     <b>Yahtzee<b></b>
 </div>
-<script src="js/Yahtzee.js"></script>
+<script src="Yahtzee.js"></script>
 </body>
 </html>
